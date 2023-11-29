@@ -68,6 +68,7 @@
   . section-4,
   . section-5, {
     padding: 0px
+    width: 100%;
     }
   
   .section-5 .box-3 {
